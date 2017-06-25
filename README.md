@@ -1,7 +1,7 @@
 ## Specifications
 
-Node v8.1.2
-Babel v6.24.1
++ Node v8.1.2
++ Babel v6.24.1
 
 ## Instructions
 
