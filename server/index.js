@@ -1,3 +1,3 @@
 import test from './test'
 
-test('Babel is working')
+test('Babel is working!')

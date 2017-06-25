@@ -6,5 +6,5 @@ var _test2 = _interopRequireDefault(_test);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-(0, _test2.default)('Babel is working');
+(0, _test2.default)('Babel is working!');
 //# sourceMappingURL=index.js.map
